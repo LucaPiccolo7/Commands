@@ -1,7 +1,9 @@
 # Comandi
 Raccolta di comandi generalmente utili per varie task
 
-## PostgreSQL & PGAdmin4
+<details>
+
+<summary> PostgreSQL & PGAdmin4 </summary>
 
 ### Installazione PostgreSQL (*Linux*)
 https://www.how2shout.com/linux/install-postgresql-server-client-on-ubuntu-22-04-lts-jammy/
@@ -63,7 +65,11 @@ https://www.oracletutorial.com/oracle-string-functions/
 ### Tutorial ruoli e permessi
 https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-grant-permissions-in-postgresql-on-a-vps-2
 
-## Git
+</details>
+
+<details>
+	
+<summary> Git </summary>
 
 ### Tutorial uso comandi add, commit, push etc...
 https://www.atlassian.com/git/tutorials/saving-changes?section=git-add
@@ -88,10 +94,20 @@ https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/instal
 ### Configurazione git-credential-manager
 https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/credstores.md
 
-## GitHub
+</details>
+
+<details>
+	
+<summary> GitHub </summary>
 
 ### Tutorial markup language
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-## Attivazione Windows11
+</details>
+
+<details>
+	
+<summary> Attivazione Windows11 </summary>
 https://github.com/massgravel/Microsoft-Activation-Scripts
+
+</details>
