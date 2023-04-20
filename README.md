@@ -111,3 +111,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
 </details>
+
+<details>
+
+<summary> Linguaggio C </summary>
+https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
+
+</details>
