@@ -114,7 +114,29 @@ https://github.com/massgravel/Microsoft-Activation-Scripts
 
 <details>
 
-	<summary> Linguaggio JAVA </summary>
-	Esempiooooo
+<summary> Linguaggio JAVA </summary>
 	
+### Link documentazione JAVA 8
+http://docs.oracle.com/javase/8/
+	
+### Link documentazione JAVA 9
+http://download.java.net/java/jdk9/
+oppure
+http://docs.oracle.com/javase/9/
+	
+### Impostare variabili d'ambiente in LINUX
+```
+export JAVA_HOME=/usr/lib/jvm/nome-directory-JAVA
+```
+
+```
+export PATH=${PATH}:/usr/lib/jvm/jdk-20
+```
+	
+Per visualizzare i valori contenuti in JAVA_HOME ed in PATH, eseguire nel terminale:
+```
+echo $JAVA_HOME
+
+echo $PATH
+```
 </details>
