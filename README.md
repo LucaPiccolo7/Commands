@@ -111,3 +111,10 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://github.com/massgravel/Microsoft-Activation-Scripts
 
 </details>
+
+<details>
+
+	<summary> Linguaggio JAVA </summary>
+	Esempiooooo
+	
+</details>
