@@ -139,4 +139,8 @@ echo $JAVA_HOME
 
 echo $PATH
 ```
+	
+### Configurazione JDBC
+https://db.apache.org/derby/papers/DerbyTut/install_software.html#derby
+	
 </details>
