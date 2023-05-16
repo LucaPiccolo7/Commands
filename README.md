@@ -140,7 +140,7 @@ echo $JAVA_HOME
 echo $PATH
 ```
 	
-### Configurazione JDBC
-https://db.apache.org/derby/papers/DerbyTut/install_software.html#derby
+### Configurazione driver JDBC per postgresql
+https://jdbc.postgresql.org/
 	
 </details>
