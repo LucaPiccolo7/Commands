@@ -6,10 +6,10 @@ Raccolta di comandi generalmente utili per varie task
 <summary> PostgreSQL & PGAdmin4 </summary>
 
 ### Installazione PostgreSQL (*Linux*)
-https://www.how2shout.com/linux/install-postgresql-server-client-on-ubuntu-22-04-lts-jammy/
+https://www.postgresql.org/download/linux/debian/
 
 ### Installazione PGAdmin4 (*Linux*)
-https://www.how2shout.com/linux/how-to-install-pgadmin-4-on-ubuntu-20-04-lts-linux/
+https://www.pgadmin.org/download/pgadmin-4-apt/
 
 ### Comandi vari per *Windows*
 https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_PostgreSQL.htm
