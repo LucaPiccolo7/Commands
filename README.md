@@ -107,8 +107,13 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 <details>
 	
-<summary> Attivazione Windows11 </summary>
+<summary> Windows11 </summary>
+
+### Attivazione
 https://github.com/massgravel/Microsoft-Activation-Scripts
+
+### Comandi CMD
+https://www.freecodecamp.org/italian/news/lista-di-comandi-per-il-prompt-un-tutorial-per-la-riga-di-comando/#:~:text=Puoi%20usare%20il%20comando%20echo,echo%20contenuto%2Dfile%20%3E%20nomefile.
 
 </details>
 
