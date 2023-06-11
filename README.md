@@ -121,16 +121,12 @@ https://www.freecodecamp.org/italian/news/lista-di-comandi-per-il-prompt-un-tuto
 
 <summary> Linguaggio JAVA </summary>
 	
-### Link documentazione JAVA 8
-http://docs.oracle.com/javase/8/
-	
-### Link documentazione JAVA 9
-http://download.java.net/java/jdk9/
-oppure
-http://docs.oracle.com/javase/9/
-	
-### Installazione jdk SE (al posto delle openjdk-default)
-https://ubuntuhandbook.org/index.php/2022/03/install-jdk-18-ubuntu/
+### Installazione JAVA
+1) link procedura generale: https://ubuntuhandbook.org/index.php/2022/03/install-jdk-18-ubuntu/
+
+2) Scaricare "jdk-20-scripts.sh"
+
+3) Nella shell di un SO debian-based: ```bash jdk-20-scripts.sh```
 	
 ### Configurazione driver JDBC per postgresql
 https://jdbc.postgresql.org/
