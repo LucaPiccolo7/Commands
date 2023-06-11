@@ -124,9 +124,13 @@ https://www.freecodecamp.org/italian/news/lista-di-comandi-per-il-prompt-un-tuto
 ### Installazione JAVA
 1) link procedura generale: https://ubuntuhandbook.org/index.php/2022/03/install-jdk-18-ubuntu/
 
-2) Scaricare "jdk-20-scripts.sh"
+2) Scaricare la versione di java più recente ed installare tramite package manager: https://www.oracle.com/java/technologies/downloads/
+	
+3) Scaricare "jdk-20-scripts.sh" (aggiornato alla più recente jdk-20)
 
-3) Nella shell di un SO debian-based: ```bash jdk-20-scripts.sh```
+4) Nella shell di un SO debian-based: ```bash jdk-20-scripts.sh```
+	
+5) Nel caso non si fosse ancora concretizzata, utilizzare ```sudo update-alternatives --config java``` e selezionare la versione appena installata
 	
 ### Configurazione driver JDBC per postgresql
 https://jdbc.postgresql.org/
