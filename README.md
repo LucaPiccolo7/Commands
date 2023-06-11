@@ -93,6 +93,8 @@ https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/instal
 
 ### Configurazione git-credential-manager
 https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/credstores.md
+oppure
+```git config --global credential.credentialStore secretservice```
 
 </details>
 
