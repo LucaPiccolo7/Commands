@@ -129,21 +129,8 @@ http://download.java.net/java/jdk9/
 oppure
 http://docs.oracle.com/javase/9/
 	
-### Impostare variabili d'ambiente in LINUX
-```
-export JAVA_HOME=/usr/lib/jvm/nome-directory-JAVA
-```
-
-```
-export PATH=${PATH}:/usr/lib/jvm/jdk-20
-```
-	
-Per visualizzare i valori contenuti in JAVA_HOME ed in PATH, eseguire nel terminale:
-```
-echo $JAVA_HOME
-
-echo $PATH
-```
+### Installazione jdk SE (al posto delle openjdk-default)
+https://ubuntuhandbook.org/index.php/2022/03/install-jdk-18-ubuntu/
 	
 ### Configurazione driver JDBC per postgresql
 https://jdbc.postgresql.org/
