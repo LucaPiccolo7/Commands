@@ -140,3 +140,13 @@ https://www.freecodecamp.org/italian/news/lista-di-comandi-per-il-prompt-un-tuto
 https://jdbc.postgresql.org/
 	
 </details>
+
+<details>
+	
+<Summary> JSON </Summary>
+	
+### Integrazione JSON in java
+ 
+https://www.baeldung.com/java-org-json
+ 
+</details>
