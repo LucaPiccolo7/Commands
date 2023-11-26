@@ -1,0 +1,1 @@
+questo esempio riguarda una funzionalita' che voglio introdurre nel seguente branch, senza, per ora, integrarla nel master branch
