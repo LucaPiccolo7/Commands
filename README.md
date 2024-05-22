@@ -150,3 +150,12 @@ https://jdbc.postgresql.org/
 https://www.baeldung.com/java-org-json
  
 </details>
+
+<details>
+
+<Summary> Eclipse </Summary>
+
+### Problemi kotlin compiler con classe java.Serializable
+Aggiornare il path della variabile JDK_Home seguendo il percorso: Window -> Preferences -> Kotlin -> Compiler -> nella voce JDK Home settare path adeguato
+
+</details>
