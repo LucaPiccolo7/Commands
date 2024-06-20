@@ -1,0 +1,7 @@
+provider: s3
+endpoint: https://4a7500f47fb3ca1c755d77c9227213ff.r2.cloudflarestorage.com
+bucket: staruml
+path: releases-v6
+updaterCacheDirName: staruml-updater
+publisherName:
+  - MKLabs Co.,Ltd.
