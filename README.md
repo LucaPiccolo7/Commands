@@ -68,6 +68,20 @@ https://www.digitalocean.com/community/tutorials/how-to-use-roles-and-manage-gra
 </details>
 
 <details>
+
+<summary>Java</summary>
+
+### Fonti
+- Java tutorials (per apprendere) 
+	https://docs.oracle.com/javase/tutorial/
+- Java API Documentation (per consultare ogni classe) 
+	https://docs.oracle.com/en/java/javase/21/docs/api/index.html
+- Java Specifiche (per chiarire dubbi tecnici)
+  	https://docs.oracle.com/javase/specs/
+
+</details>
+
+<details>
 	
 <summary> Git </summary>
 
